@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Raponi"
+  given-names: "Antonello"
+  orcid: "https://orcid.org/0000-0002-3951-2308"
+title: "Mixing phenomena description through β-PDF"
+version: 2.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-12-04
+url: "https://github.com/mulmopro/neutralization"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Battaglia"
+    given-names: "Giuseppe"
+  - family-names: "Romano"
+    given-names: "Salvatore"
+  - family-names: "Raponi"
+    given-names: "Antonello"
+  - family-names: "Volpe"
+    given-names: "Francesco"
+  - family-names: "Bellanca"
+    given-names: "Leandro"
+  - family-names: "Ciofalo"
+    given-names: "Michele"
+  - family-names: "Marchisio"
+    given-names: "Daniele"
+  - family-names: "Cipollina"
+    given-names: "Andrea"
+  - family-names: "Micale"
+    given-names: "Giorgio"
+  - family-names: "Tamburini"
+    given-names: "Alessandro"
+  doi: "10.1016/j.cherd.2023.11.056"
+  journal: "Chemical Engineering Research and Design"
+  month: 11
+  start: 1 # First page number
+  end: 10 # Last page number
+  title: "Mixing phenomena in Circular and Rectangular cross-sectional T-mixers: experimental and numerical assessment"
+  issue: 1
+  volume: 1
+  year: 2023
